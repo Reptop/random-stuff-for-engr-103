@@ -23,6 +23,5 @@ int main() {
   //head->next = new node();
   struct node list[10];
 
-
   return 0;
 }
